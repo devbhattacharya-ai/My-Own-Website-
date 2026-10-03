@@ -102,7 +102,7 @@ export function ProjectSlider({ demos, language, motionEnabled, demoLabel, viewD
       <div className="radical-details" key={demo.url}>
         <div className="project-description"><p>{demo.text}</p><div className="project-tags">{demo.tags.map(tag => <span key={tag}>{tag}</span>)}</div></div>
         <div className="radical-detail-actions">
-          <a href={`/work/${demo.url.includes("smile-dental") ? "smile-dental" : demo.url.includes("bisi-bele") ? "bisi-bele" : "afterdark"}?lang=${language}`} className="ghost-link">{mr ? "सविस्तर केस स्टडी पहा" : "Read case study"}<ArrowUpRight aria-hidden="true" /></a>
+          <a href={`/work/${demo.url.includes("smile-dental") ? "smile-dental" : demo.url.includes("rowdy-momo") ? "rowdy-momo" : "afterdark"}?lang=${language}`} className="ghost-link">{mr ? "सविस्तर केस स्टडी पहा" : "Read case study"}<ArrowUpRight aria-hidden="true" /></a>
           <a href={demo.url} target="_blank" rel="noopener noreferrer" className="ghost-link">{viewDemo}<ArrowUpRight aria-hidden="true" /></a>
           <Accordion className="project-details" type="single" collapsible><AccordionItem value="details"><AccordionTrigger>{details}</AccordionTrigger><AccordionContent><dl>{demo.caseStudy.map((detail, i) => <div key={i}><dt className="label">{caseLabels[i]}</dt><dd>{detail}</dd></div>)}</dl></AccordionContent></AccordionItem></Accordion>
         </div>

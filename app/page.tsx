@@ -54,17 +54,17 @@ const content = {
     viewDemo: "View live demo",
     demos: [
       {
-        title: "Bisi Bele",
-        type: "South Indian café · Kharghar",
-        text: "A warm, food-first website that brings the menu, story, location and ordering journey together.",
-        tags: ["Restaurant website", "Menu discovery", "Order journey"],
+        title: "Rowdy Momo Cafe",
+        type: "Nepali café · Bandra West",
+        text: "A dark, poster-led café site. The steamer leads, the menu scrolls with you, and order or reserve is one tap away.",
+        tags: ["Restaurant website", "Scroll menu", "Reserve a table"],
         caseStudy: [
-          "Make a local food brand easy to browse and order from a phone.",
-          "Responsive café website with menu, story, location and ordering paths.",
-          "Mobile-first layout · menu discovery · direct order action",
+          "Make a Nepali momo counter easy to browse, order, and find from a phone.",
+          "Home, menu, story, and find-us, with a scroll-linked platter and a reserve form.",
+          "Mobile-first layout · steam, crisp, plates, and jhol · direct order and reserve",
         ],
-        image: "/demo-bisi-bele.jpg",
-        url: "https://bisi-bele-kharghar.dev2404.chatgpt.site/",
+        image: "/demo-rowdy-momo.jpg",
+        url: "https://rowdy-momo-cafe.vercel.app/",
       },
       {
         title: "Smile Dental Clinic",
@@ -216,17 +216,17 @@ const content = {
     viewDemo: "लाइव्ह डेमो पाहा",
     demos: [
       {
-        title: "Bisi Bele",
-        type: "दक्षिण भारतीय कॅफे · खारघर",
-        text: "मेनू, ब्रँडची गोष्ट, लोकेशन आणि ऑर्डरचा प्रवास एकत्र आणणारी उबदार वेबसाइट.",
-        tags: ["रेस्टॉरंट वेबसाइट", "मेनू शोध", "ऑर्डर प्रवास"],
+        title: "Rowdy Momo Cafe",
+        type: "नेपाळी कॅफे · बांद्रा वेस्ट",
+        text: "गडद, पोस्टरसारखी कॅफे साइट. स्टीमर पुढे, मेनू स्क्रोलबरोबर, ऑर्डर किंवा रिझर्व्ह एका टॅपवर.",
+        tags: ["रेस्टॉरंट वेबसाइट", "स्क्रोल मेनू", "टेबल रिझर्व्ह"],
         caseStudy: [
-          "स्थानिक फूड ब्रँड मोबाइलवर सहज पाहता आणि ऑर्डर करता येईल असा अनुभव तयार करणे.",
-          "मेनू, ब्रँडची गोष्ट, लोकेशन आणि ऑर्डर मार्गांसह रिस्पॉन्सिव्ह कॅफे वेबसाइट.",
-          "मोबाइल-फर्स्ट मांडणी · मेनू शोध · थेट ऑर्डर कृती",
+          "नेपाळी मोमो काउंटर फोनवर सहज पाहता, ऑर्डर करता आणि शोधता येईल असा अनुभव.",
+          "होम, मेनू, गोष्ट आणि फाइंड अस, स्क्रोल प्लॅटर आणि रिझर्व्ह फॉर्मसह.",
+          "मोबाइल-फर्स्ट · स्टीम, क्रिस्प, प्लेट्स आणि झोल · थेट ऑर्डर आणि रिझर्व्ह",
         ],
-        image: "/demo-bisi-bele.jpg",
-        url: "https://bisi-bele-kharghar.dev2404.chatgpt.site/",
+        image: "/demo-rowdy-momo.jpg",
+        url: "https://rowdy-momo-cafe.vercel.app/",
       },
       {
         title: "Smile Dental Clinic",
